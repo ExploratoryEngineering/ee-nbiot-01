@@ -1,0 +1,12 @@
+Output: EE-NBIOT-01_NC_Drill
+Type  : NC Drill
+From  : PCB Document [panelized_sara-n210.PcbDoc]
+   Generated File[EE-NBIOT-01_NC_Drill.TXT]
+   Generated File[EE-NBIOT-01_NC_Drill.LDP]
+   Generated File[EE-NBIOT-01_NC_Drill.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 01.38.58 On 09.04.2018

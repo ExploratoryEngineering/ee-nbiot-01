@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [sara-n210_breakout.SchDoc]
+   Generated File[Bill of Materials-sara-n210_breakout.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:53:11 On 10.01.2018
